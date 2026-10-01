@@ -1,0 +1,6 @@
+{
+  "name": "OmniCast 4K",
+  "description": "Universal low-latency 4K TV screen casting, multi-brand auto discovery, and smart TV companion remote.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
